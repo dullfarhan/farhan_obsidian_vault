@@ -11,8 +11,11 @@
             "id": "c9e13d1923bc1f70",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "Notes/CS/Programming Language/rust/Learn/Structd/Learn.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -120,13 +123,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "b637119a0e8938c2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,6 +151,7 @@
   },
   "active": "c9e13d1923bc1f70",
   "lastOpenFiles": [
+    "Notes/CS/Programming Language/rust/Learn/Structd/Learn.md",
     "Welcome.md",
     "Notes/CV/Work Experience.md",
     "experiance.md",
@@ -152,7 +164,6 @@
     "Notes/CV/Projects/KiddeCove.md",
     "Untitled.md",
     "Notes/CV/Projects",
-    "Notes/CS/Programming Language/rust/Learn/Structd/Learn.md",
     "Notes/CV",
     "Notes/CS/Programming Language/rust/Learn/Structd",
     "Notes/CS/Programming Language/rust/Learn",
