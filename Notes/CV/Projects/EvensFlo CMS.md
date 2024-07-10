@@ -1,5 +1,5 @@
 
-
+Evenflo is an online retailer specializing in baby and children's products, offering items such as car seats, strollers, and home safety gear. They provide extensive support and resources for parents, including product registration, manuals, and customer service through their website.
 
 ## Role : Full Stack Developer
 

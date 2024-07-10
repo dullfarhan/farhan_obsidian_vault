@@ -1,4 +1,4 @@
-
+_Help Hope Live_ is a nonprofit national organization dedicated to raising money for medical bills and expenses through crowdfunding.
 
 
 ## Role : Full Stack Developer

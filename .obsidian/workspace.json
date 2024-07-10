@@ -13,7 +13,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Notes/CS/Programming Language/rust/Learn/Structd/Learn.md",
+                "file": "Notes/CV/Projects/EvensFlo CMS.md",
                 "staged": false
               }
             }
@@ -79,6 +79,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b637119a0e8938c2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c714028d693b7fa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
             "id": "f7b69af8b16cfb81",
             "type": "leaf",
             "state": {
@@ -115,29 +131,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "c714028d693b7fa2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "b637119a0e8938c2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,16 +150,28 @@
   },
   "active": "c9e13d1923bc1f70",
   "lastOpenFiles": [
+    "Notes/CV/FYP.md",
+    "Pasted image 20240708191941.png",
+    "Pasted image 20240708191936.png",
+    "Pasted image 20240708191933.png",
+    "Pasted image 20240708191926.png",
+    "Pasted image 20240708191922.png",
+    "Pasted image 20240708191917.png",
+    "Pasted image 20240708191912.png",
+    "Pasted image 20240708191841.png",
+    "Unmasking_the_impostr_M.Farhan_Adib_Avaid.webp",
+    "Notes/Assets/Pasted image 20240708190000.png",
+    "Notes/CV/Work Experience.md",
+    "Notes/Assets",
+    "Notes/CV/Projects/EvensFlo CMS.md",
+    "Notes/CV/Projects/HHL.md",
+    "Notes/CV/Projects/OTHER PROJECTS.md",
     "Notes/CS/Programming Language/rust/Learn/Structd/Learn.md",
     "Welcome.md",
-    "Notes/CV/Work Experience.md",
     "experiance.md",
     "Notes/CV/EXperinace.md",
     "**KiddeCove**.md",
     "Notes/CV/Projects/FullFrame.md",
-    "Notes/CV/Projects/EvensFlo CMS.md",
-    "Notes/CV/Projects/HHL.md",
-    "Notes/CV/Projects/OTHER PROJECTS.md",
     "Notes/CV/Projects/KiddeCove.md",
     "Untitled.md",
     "Notes/CV/Projects",
