@@ -11,27 +11,26 @@
             "id": "c9e13d1923bc1f70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Notes/CV/Projects/KiddeCove.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.md",
+                "staged": false
               }
             }
           },
           {
-            "id": "bdf55f3a77e714a5",
+            "id": "8feba4bae4d33772",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Notes/CS/FRONTEND/REACT/What Should be pure function in react.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,14 +160,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdf55f3a77e714a5",
+  "active": "b637119a0e8938c2",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Notes/CS/FRONTEND/REACT/Strict Mode.md",
+    "Notes/CS/FRONTEND/REACT/What Should be pure function in react.md",
+    "Welcome.md",
+    "Notes/CV/Projects/KiddeCove.md",
+    "Notes/CV/Projects/FullFrame.md",
+    "Notes/CS/FRONTEND/REACT",
+    "Notes/CS/FRONTEND",
+    "Notes/CV/Projects/HHL.md",
+    "Notes/CS/Programming Language/rust/Learn/Structd/Learn.md",
+    "Notes/CV/Projects/EvensFlo CMS.md",
+    "issues.md",
     "Notes/CV/Projects/OTHER PROJECTS.md",
     "Notes/Assets/Pasted image 20240708191841.png",
     "Notes/Assets/Pasted image 20240708191912.png",
-    "Notes/CV/Projects/KiddeCove.md",
-    "Notes/CV/Projects/EvensFlo CMS.md",
-    "Untitled.md",
     "Notes/CV/FYP.md",
     "Notes/Assets/Pasted image 20240708191941.png",
     "Notes/Assets/Pasted image 20240708191936.png",
@@ -180,20 +188,15 @@
     "Notes/Assets/Pasted image 20240708190000.png",
     "Notes/CV/Work Experience.md",
     "Notes/Assets",
-    "Notes/CV/Projects/HHL.md",
-    "Notes/CS/Programming Language/rust/Learn/Structd/Learn.md",
-    "Welcome.md",
     "experiance.md",
     "Notes/CV/EXperinace.md",
     "**KiddeCove**.md",
-    "Notes/CV/Projects/FullFrame.md",
     "Notes/CV/Projects",
     "Notes/CV",
     "Notes/CS/Programming Language/rust/Learn/Structd",
     "Notes/CS/Programming Language/rust/Learn",
     "Notes/CS/Programming Language/rust",
     "Notes/CS/Programming Language",
-    "Notes/CS",
-    "Notes"
+    "Notes/CS"
   ]
 }

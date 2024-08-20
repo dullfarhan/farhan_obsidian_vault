@@ -1,0 +1,12 @@
+- Components
+- use state Passed funcations
+- use memo ]
+- set functions
+- UseMemo reducer
+- in class components methord 
+	- constructor
+	- componentWillMount
+	- compnentWillRecivePops
+	- getDerivedSateFromProps
+	- render
+	- set state first argument 
