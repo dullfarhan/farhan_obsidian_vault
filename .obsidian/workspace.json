@@ -4,33 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "78e15e9aa3f6dec3",
+        "id": "fb139ca6de3e82b1",
         "type": "tabs",
         "children": [
           {
-            "id": "c9e13d1923bc1f70",
+            "id": "55f2b6b563dda8cf",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Untitled.md",
+                "file": "Screenshot_20240823_171754.png",
                 "staged": false
               }
             }
           },
           {
-            "id": "8feba4bae4d33772",
+            "id": "f612da1a2d537cbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Notes/CS/FRONTEND/REACT/What Should be pure function in react.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshot_20240823_180203-3.png",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "c6055b2b92f5c4d2",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Notes/CS/Java/yet to explore.md",
+                "staged": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,14 +102,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b637119a0e8938c2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "c714028d693b7fa2",
             "type": "leaf",
             "state": {
@@ -140,15 +143,24 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "b50d955c306fe11a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,11 +172,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b637119a0e8938c2",
+  "active": "c6055b2b92f5c4d2",
   "lastOpenFiles": [
+    "Screenshot_20240823_182523.png",
+    "Screenshot_20240823_182012.png",
+    "Screenshot_20240823_181800.png",
+    "Screenshot_20240823_185505.png",
+    "Screenshot_20240823_182430.png",
+    "Screenshot_20240823_181610.png",
+    "Screenshot_20240823_181528.png",
+    "Screenshot_20240823_180623.png",
+    "Screenshot_20240823_180359.png",
+    "Screenshot_20240823_180240.png",
+    "Screenshot_20240823_180203-3.png",
     "Untitled.md",
     "Notes/CS/FRONTEND/REACT/Strict Mode.md",
+    "Quality Assurance Report.md",
     "Notes/CS/FRONTEND/REACT/What Should be pure function in react.md",
+    "Notes/CS/Java/yet to explore.md",
+    "Notes/CS/Java",
     "Welcome.md",
     "Notes/CV/Projects/KiddeCove.md",
     "Notes/CV/Projects/FullFrame.md",
@@ -175,17 +201,7 @@
     "Notes/CV/Projects/EvensFlo CMS.md",
     "issues.md",
     "Notes/CV/Projects/OTHER PROJECTS.md",
-    "Notes/Assets/Pasted image 20240708191841.png",
-    "Notes/Assets/Pasted image 20240708191912.png",
     "Notes/CV/FYP.md",
-    "Notes/Assets/Pasted image 20240708191941.png",
-    "Notes/Assets/Pasted image 20240708191936.png",
-    "Notes/Assets/Pasted image 20240708191933.png",
-    "Notes/Assets/Pasted image 20240708191926.png",
-    "Notes/Assets/Pasted image 20240708191922.png",
-    "Notes/Assets/Pasted image 20240708191917.png",
-    "Notes/Assets/Unmasking_the_impostr_M.Farhan_Adib_Avaid.webp",
-    "Notes/Assets/Pasted image 20240708190000.png",
     "Notes/CV/Work Experience.md",
     "Notes/Assets",
     "experiance.md",
@@ -196,7 +212,6 @@
     "Notes/CS/Programming Language/rust/Learn/Structd",
     "Notes/CS/Programming Language/rust/Learn",
     "Notes/CS/Programming Language/rust",
-    "Notes/CS/Programming Language",
-    "Notes/CS"
+    "Notes/CS/Programming Language"
   ]
 }
