@@ -8,40 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55f2b6b563dda8cf",
+            "id": "f42ee5ccd00fe089",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Screenshot_20240823_171754.png",
-                "staged": false
-              }
+                "file": "Notes/Project Requirements and Solution Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Requirements and Solution Analysis"
             }
           },
           {
-            "id": "f612da1a2d537cbe",
+            "id": "1d220b57efc456be",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Screenshot_20240823_180203-3.png",
+                "file": "What is a Spike in Agile?.md",
                 "staged": false
-              }
-            }
-          },
-          {
-            "id": "c6055b2b92f5c4d2",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Notes/CS/Java/yet to explore.md",
-                "staged": true
-              }
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (What is a Spike in Agile?)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -76,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -84,14 +82,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 320.5
   },
   "right": {
     "id": "702c922ceaffeba4",
@@ -106,7 +106,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "feature flag.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of feature flag"
             }
           },
           {
@@ -115,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "feature flag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for feature flag"
             }
           },
           {
@@ -131,9 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "feature flag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from feature flag"
             }
           },
           {
@@ -144,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -152,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -172,26 +186,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6055b2b92f5c4d2",
+  "active": "b50d955c306fe11a",
   "lastOpenFiles": [
-    "Screenshot_20240823_182523.png",
-    "Screenshot_20240823_182012.png",
-    "Screenshot_20240823_181800.png",
-    "Screenshot_20240823_185505.png",
-    "Screenshot_20240823_182430.png",
-    "Screenshot_20240823_181610.png",
-    "Screenshot_20240823_181528.png",
-    "Screenshot_20240823_180623.png",
-    "Screenshot_20240823_180359.png",
-    "Screenshot_20240823_180240.png",
-    "Screenshot_20240823_180203-3.png",
+    "What is a Spike in Agile?.md",
     "Untitled.md",
+    "Notes/WORK.md",
+    "Pasted image 20240926151501.png",
+    "Pasted image 20240926151055.png",
+    "Pasted image 20240926150751.png",
+    "farhan_id_card.md",
+    "PXL_20221108_042903634.jpg",
+    "PXL_20221108_043019089.jpg",
+    "Welcome.md",
+    "Notes/CS/FRONTEND/Redux/Untitled.md",
+    "Notes/CS/FRONTEND/Redux",
+    "Pasted image 20240926153027.png",
+    "Pasted image 20240926152705.png",
+    "Pasted image 20240926151225.png",
+    "Pasted image 20240926150918.png",
+    "Notes/CS/Programming Language/JS/Node/JS RUN TIME.md",
+    "Notes/CS/Programming Language/JS/Node/wrwer.md",
+    "Notes/CS/Untitled.md",
+    "Notes/CS/Programming Language/JS/Node/EC",
+    "Notes/CS/Programming Language/JS/Node",
+    "Notes/CS/Programming Language/rust/Untitled",
+    "Notes/CS/Programming Language/JS",
+    "Screenshot_20240823_182523.png",
     "Notes/CS/FRONTEND/REACT/Strict Mode.md",
     "Quality Assurance Report.md",
     "Notes/CS/FRONTEND/REACT/What Should be pure function in react.md",
-    "Notes/CS/Java/yet to explore.md",
-    "Notes/CS/Java",
-    "Welcome.md",
+    "Notes/CS/Programming Language/rust/Java/yet to explore.md",
+    "Notes/CS/Programming Language/rust/Java",
     "Notes/CV/Projects/KiddeCove.md",
     "Notes/CV/Projects/FullFrame.md",
     "Notes/CS/FRONTEND/REACT",
@@ -207,11 +232,6 @@
     "experiance.md",
     "Notes/CV/EXperinace.md",
     "**KiddeCove**.md",
-    "Notes/CV/Projects",
-    "Notes/CV",
-    "Notes/CS/Programming Language/rust/Learn/Structd",
-    "Notes/CS/Programming Language/rust/Learn",
-    "Notes/CS/Programming Language/rust",
-    "Notes/CS/Programming Language"
+    "Notes/CV/Projects"
   ]
 }
